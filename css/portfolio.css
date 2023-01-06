@@ -1,0 +1,11 @@
+.name {
+  border: 2px solid black;
+  padding: 5px;
+  display: block;
+  margin: auto;
+  margin-top: 20px;
+  margin-bottom: 20px;
+  width: 25%;
+  box-sizing: border-box;
+  float: right;
+}
