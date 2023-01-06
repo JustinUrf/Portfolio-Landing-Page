@@ -1,7 +1,7 @@
 /* Makes right sidebar to store name, contact information, etc. */
 .rightSidebar {
   border: 2px solid black;
-  padding: 0.375rem 0.375rem 2.063rem 0.375rem;
+  padding: 0.375rem 0.375rem 6.063rem 0.375rem;
   display: block;
   margin: auto;
   margin-top: 20px;
