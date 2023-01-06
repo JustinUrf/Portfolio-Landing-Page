@@ -24,8 +24,12 @@
   width: 79%;
   box-sizing: border-box;
   float: left;
-  
 }
+.aboutMe h2 {
+  text-align: center;
+}
+
+
 
 .background {
   border: 0px solid black;
@@ -49,19 +53,36 @@
   margin-bottom: 10px;
   width:100%;
   box-sizing: border-box;
-  float:right;
   text-align: left;
 }
 
 .hobbies{
   border: 0px solid black;
-  padding-left: 0px;
   display:block;
   margin: auto;
   margin-top: 10x;
   margin-bottom: 10px;
   width:100%;
   box-sizing: border-box;
-  float:right;
   text-align: left;
 }
+
+.hobbies h1 {
+  padding-left: 10px;
+}
+
+.githubProjects {
+  border: 0px solid black;
+  display:block;
+  margin: auto;
+  margin-top: 30px;
+  margin-bottom: 30px;
+  width: 50%;
+  box-sizing: border-box;
+  float: left;
+}
+
+.githubProjects h1 {
+  text-align: center;
+}
+
