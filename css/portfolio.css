@@ -9,3 +9,16 @@
   box-sizing: border-box;
   float: right;
 }
+
+.aboutMe {  
+  border: 2px solid black;
+  padding-left: 10px;
+  display: block;
+  margin: auto;
+  margin-top: 20px;
+  margin-bottom: 20px;
+  width: 74%;
+  box-sizing: border-box;
+  float: left;
+  
+}
