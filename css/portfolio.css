@@ -76,8 +76,8 @@
   display:block;
   margin: auto;
   margin-top: 30px;
-  margin-bottom: 30px;
-  width: 50%;
+  margin-bottom: 10px;
+  width: 45%;
   box-sizing: border-box;
   float: left;
 }
@@ -85,4 +85,29 @@
 .githubProjects h1 {
   text-align: center;
 }
+
+.githubProjects h2 {
+  text-align: left;
+}
+
+.broadcasting {  
+  border: 0px solid black;
+  display:block;
+  margin: auto;
+  margin-top: 30px;
+  margin-bottom: 10px;
+  width: 45%;
+  box-sizing: border-box;
+  float: right;
+}
+
+.broadcasting h1 {
+  text-align: center;
+}
+
+.broadcasting h2 {
+  text-align: left;
+}
+
+
 
