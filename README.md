@@ -6,7 +6,7 @@
 
 ## Link to GitHub Pages
 
-JustinUrf.github.io/Portfolio-Landing-Page
+https://justinurf.github.io/Portfolio-Landing-Page/
 
 ## Technologies Used
 
@@ -21,7 +21,7 @@ JustinUrf.github.io/Portfolio-Landing-Page
 ## Setup/Installation Requirements
 
 * Download Repository
-* Open HTML file in any web browser to open website OR go to JustinUrf.github.io/Portfolio-Landing-Page to view online!
+* Open HTML file in any web browser to open website OR go to https://justinurf.github.io/Portfolio-Landing-Page/ to view online!
 * To open any HTML or CSS file use VScode or any source-code eidtor.
 
 ## Known Bugs
