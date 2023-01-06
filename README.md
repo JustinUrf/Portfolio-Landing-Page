@@ -22,7 +22,7 @@ https://justinurf.github.io/Portfolio-Landing-Page/
 
 * Download Repository
 * Open HTML file in any web browser to open website OR go to https://justinurf.github.io/Portfolio-Landing-Page/ to view online!
-* To open any HTML or CSS file use VScode or any source-code eidtor.
+* To open any HTML or CSS file use VScode or any source-code editor.
 
 ## Known Bugs
 
