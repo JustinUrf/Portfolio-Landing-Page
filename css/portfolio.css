@@ -32,11 +32,36 @@
   padding-left: 10px;
   display:block;
   margin: auto;
-  margin-top: 30px;
-  margin-bottom: 20px;
+  margin-top: 10px;
+  margin-bottom: 10px;
   width:100%;
   box-sizing: border-box;
   float:right;
   text-align: left;
-  
+}
+
+.skills {
+  border: 0px solid black;
+  padding-left: 10px;
+  display:block;
+  margin: auto;
+  margin-top: 10x;
+  margin-bottom: 10px;
+  width:100%;
+  box-sizing: border-box;
+  float:right;
+  text-align: left;
+}
+
+.hobbies{
+  border: 0px solid black;
+  padding-left: 0px;
+  display:block;
+  margin: auto;
+  margin-top: 10x;
+  margin-bottom: 10px;
+  width:100%;
+  box-sizing: border-box;
+  float:right;
+  text-align: left;
 }
