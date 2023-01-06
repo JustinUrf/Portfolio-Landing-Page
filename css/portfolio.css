@@ -29,8 +29,7 @@
   text-align: center;
 }
 
-
-
+/* Nested inside class ".name" to align with ride sidebar */
 .background {
   border: 0px solid black;
   padding-left: 10px;
@@ -44,6 +43,7 @@
   text-align: left;
 }
 
+/* Nested inside class ".name" to align with ride sidebar */
 .skills {
   border: 0px solid black;
   padding-left: 10px;
@@ -56,6 +56,7 @@
   text-align: left;
 }
 
+/* Nested like class ".skills". Added extra ruling for h1 bc using "ol" instead of ul" */
 .hobbies{
   border: 0px solid black;
   display:block;
@@ -66,36 +67,43 @@
   box-sizing: border-box;
   text-align: left;
 }
-
 .hobbies h1 {
   padding-left: 10px;
 }
 
+/* Shares 45% of the space in div class ".aboutme", floated to left side*/
 .githubProjects {
   border: 0px solid black;
   display:block;
   margin: auto;
-  margin-top: 30px;
-  margin-bottom: 10px;
+  margin-top: 0.5rem;
+  margin-bottom: 0.5rem;
   width: 45%;
   box-sizing: border-box;
   float: left;
 }
-
 .githubProjects h1 {
   text-align: center;
+  padding-right: 0.5rem;
 }
 
 .githubProjects h2 {
   text-align: left;
+  font-size: 2.5rem;s
 }
 
+.githubProjects ul {
+  font-size: 1rem;
+}
+
+
+/* shares 45% of the space in div class "about me" with class ".githubProjects." */
 .broadcasting {  
   border: 0px solid black;
   display:block;
   margin: auto;
-  margin-top: 30px;
-  margin-bottom: 10px;
+  margin-top: 0.5rem;
+  margin-bottom: 0.5rem;
   width: 45%;
   box-sizing: border-box;
   float: right;
@@ -103,10 +111,12 @@
 
 .broadcasting h1 {
   text-align: center;
+  padding-right: 3rem;
 }
 
 .broadcasting h2 {
   text-align: left;
+  font-size: 2.5rem;
 }
 
 
