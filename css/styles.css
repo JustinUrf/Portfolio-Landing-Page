@@ -87,6 +87,7 @@
 .githubProjects h1 {
   text-align: center;
   padding-right: 0.5rem;
+  text-decoration: underline;
 }
 
 .githubProjects h2 {
@@ -112,7 +113,8 @@
 
 .broadcasting h1 {
   text-align: center;
-  padding-right: 3rem;
+  padding-right: 4rem;
+  text-decoration: underline;
 }
 
 .broadcasting h2 {
